@@ -17,6 +17,8 @@ This mod aims to resolve the tediousness associated with manual entry of repetit
 customized command hierarchies and access them seamlessly via standard chat auto-completion or the convenient visual
 overlay panel.
 
+![QuickAlias-demo](/img/QuickAlias-time_set_midnight.gif)
+
 ## ✨ Key Features
 
 * **🎨 Integrated Visual Editor**: Eliminates the need for manual JSON configuration. Efficiently create, edit,
@@ -38,6 +40,8 @@ overlay panel.
       dimension IDs.
 * **🖥️ Overlay Navigation**: The chat interface integrates a shortcut entry (the `/` icon), which summons a visual alias
   navigation menu, enabling command execution without typing.
+
+![QuickAlias-editor](/img/QuickAlias-player.png)
 
 ## 📖 Usage Guide
 
